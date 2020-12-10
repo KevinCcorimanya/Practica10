@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976182656171",
+    "firebase_url": "https://mapa-idnp-default-rtdb.firebaseio.com/",
+    "project_id": "mapa-idnp",
+    "storage_bucket": "mapa-idnp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976182656171:android:03d253d184538521384bee",
+        "android_client_info": {
+          "package_name": "com.example.laboratorio9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976182656171-vjdth9e2s9iqlcij1bpogii0t0vmt6s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuIzOlbkGgA6oRM-UivWs4hQc0_HZn8J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976182656171-vjdth9e2s9iqlcij1bpogii0t0vmt6s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
